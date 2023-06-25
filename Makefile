@@ -10,7 +10,7 @@ VulkanTest: main.cpp
 
 
 
-test: VulkanTest
+test: VulkanTestg
 	./VulkanTest
 
 clean:
