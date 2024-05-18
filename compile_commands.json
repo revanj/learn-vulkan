@@ -1,24 +1,18 @@
 [
- {
-  "directory": "/home/revanj/Repos/learn-vulkan",
-  "arguments": [
-   "g++",
-   "-std=c++17",
-   "-O2",
-   "-DDEBUG",
-   "-g",
-   "-o",
-   "VulkanTest",
-   "main.cpp",
-   "-lglfw",
-   "-lvulkan",
-   "-ldl",
-   "-lpthread",
-   "-lX11",
-   "-lXxf86vm",
-   "-lXrandr",
-   "-lXi"
-  ],
-  "file": "main.cpp"
- }
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-DDEBUG",
+      "-g",
+      "-o",
+      "VulkanTest",
+      "main.cpp"
+    ],
+    "directory": "/home/revanj/Repos/learn-vulkan",
+    "file": "/home/revanj/Repos/learn-vulkan/main.cpp",
+    "output": "/home/revanj/Repos/learn-vulkan/VulkanTest"
+  }
 ]
